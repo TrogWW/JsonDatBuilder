@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonDatBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\ProgrammingFiles\\TWW Hacking\\Forked_WW_Hacking_API\\TWW_Practice_Rom\\stage_data.json\" \"C:\\ProgrammingFiles\\JsonDataBuilder\\gzmenu.dat\""
+    }
+  }
+}
